@@ -1,0 +1,84 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+body {
+  font-family: "Lato", sans-serif;
+}
+
+hr.solid {
+  border-top: 2px solid #999;
+  /* width: 70%; */
+  float: center;
+}
+#titleHeader {
+  padding-top: 8px;
+  font-weight: bold;
+  color: #ffffff;
+  font-size: 28px;
+  justify-content: center;
+}
+
+.small-text {
+  font-size: 11px;
+  color: #fd0000;
+  background-color: black;
+  font-weight: bold;
+  text-align: center;
+}
+
+.styled-button {
+  margin: 5px 2%;
+  width: 15%;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+.styled-table {
+  border-collapse: collapse;
+  margin: 5px 2%;
+  font-size: 0.9em;
+  font-family: sans-serif;
+  width: 100%;
+  min-width: 400px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.styled-table thead tr {
+  background-color: #2b7a78;
+  color: #ffffff;
+  text-align: center;
+  min-width: 2000px;
+}
+
+.styled-table thead th {
+  height: 50px;
+}
+
+.styled-table th,
+.styled-table td {
+  padding: 7px 10px;
+}
+
+.styled-table tbody tr,
+th,
+td {
+  border-bottom: 1px solid #bff0e5;
+  border-left: 1px solid #bff0e5;
+  border-right: 1px solid #bff0e5;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+  background-color: #f3f3f3;
+}
+
+.styled-table tbody tr:last-of-type {
+  border-bottom: 3px solid #017c64;
+}
+
+.small-text {
+  font-size: 12px;
+  color: rgb(110, 12, 12);
+}
+
+
+.error-block {
+  font-size: 14px;
+  color: rgb(110, 12, 12);
+}
