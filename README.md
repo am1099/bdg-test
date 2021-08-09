@@ -1,6 +1,6 @@
 # Intro
 
-This technical test is designed so that you can do as little or as much as you want. It's a chance to demonstrate your knowledge of: PHP, MySQL, HTML, CSS, Javascript.
+This technical test was coded using: PHP, MySQL, HTML, CSS, Javascript.
 
 # Deliverables
 
@@ -13,10 +13,6 @@ Without the assistance of a PHP Framework (Third PHP party libraries are allowed
 ## Task two
 
 Somewhere on the index page, list the last 5 addresses that belong to the user 'Steve'
-
-## Task three
-
-Email project files to `cv@bdgroup.co.uk` along with your first and last name
 
 # Expectations
 
@@ -41,7 +37,7 @@ Email project files to `cv@bdgroup.co.uk` along with your first and last name
 
 # Installation
 
-We have provided a docker-compose file however use whatever development environment you feel comfortable with (WAMP, Vagrant, Local LAMP).
+A docker-compose file is provided however use whatever development environment you feel comfortable with (WAMP, Vagrant, Local LAMP).
 
 You will be require:
 
